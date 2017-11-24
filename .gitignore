@@ -16,3 +16,6 @@ lib/
 
 # Built demo files
 demo/dist
+
+# IDE files
+.idea
